@@ -1,11 +1,16 @@
 _repo: Upper-Canada-Sketches_64749
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64749-h/images/cover.jpg
 creator:
   author:
     agent_name: Conant, Thomas
     gutenberg_agent_id: '53035'
     url: http://www.gutenberg.org/2009/agents/53035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64749#Upper-Canada-Sketches
 gutenberg_issued: '2021-03-07'
 gutenberg_type: Text
 identifiers:
